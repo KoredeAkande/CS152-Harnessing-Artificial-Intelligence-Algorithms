@@ -1,4 +1,4 @@
-# CS152-Harnessing-Artificial-Intelligence-Algorithms
+# CS152: Harnessing Artificial Intelligence Algorithms
 
 Overview
 ------------
